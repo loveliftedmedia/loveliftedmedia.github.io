@@ -16,6 +16,6 @@ User-agent: Perplexity-User
 User-agent: CCBot
 Allow: /
 
-# Plain-text site guide for LLMs: https://loveliftedmedia.com/llms.txt
-Sitemap: https://loveliftedmedia.com/sitemap.xml
+# Plain-text site guide for LLMs: https://loveliftedmedia.github.io/llms.txt
+Sitemap: https://loveliftedmedia.github.io/sitemap.xml
 
